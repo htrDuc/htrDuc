@@ -1,7 +1,3 @@
-Here’s an updated technical-focused GitHub profile README template with more detail and the additional frameworks:
-
----
-
 # 👋 Hello, I'm Duc
 
 I'm a **Full-Stack Developer** with a strong foundation in frontend and backend development, experienced in creating scalable and maintainable applications. Here’s a breakdown of the tools and frameworks I use to build efficient solutions:
