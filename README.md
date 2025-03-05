@@ -10,10 +10,6 @@ I'm a **Full-Stack Developer** with a strong foundation in frontend and backend 
 - **TypeScript**: Proficient in TypeScript for type safety and improved code reliability, enabling better scalability and maintainability.
 - **UI/UX Optimizations**: Implementing dark mode, theme support, responsive design, and accessibility standards.
 
-### State Management
-- **React Query**: Leveraging React Query for data-fetching logic, enabling caching, revalidation, and seamless API integration.
-- **Zustand**: Lightweight and flexible state management for optimized state handling in React applications.
-
 ### Backend
 - **Node.js & Express**: Developing efficient RESTful APIs with Express, focusing on performance and scalability for data-driven applications.
 - **Nest.js**: Structured, dependency-injected backend development with Nest.js for robust API services, including GraphQL and REST support.
